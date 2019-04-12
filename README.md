@@ -1,2 +1,2 @@
 # FinalMCAProject
-Cyrpto Ecommerce
+Crypto Ecommerce
